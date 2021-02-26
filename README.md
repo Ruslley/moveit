@@ -1,17 +1,20 @@
 test_tube Technologies
 This project was developed using the following technologies:
 
+
 Next.js
+
 React
+
 TypeScript
+
 fire Preview
 Deploy with Vercel
 
 rocket Getting started
 Clone the project and access the folder
 
-$ git clone https://github.com/Ruslley/moveit && cd nlw04-moveit-web
-Follow the steps below
+$ git clone https://github.com/Ruslley/moveit 
 
 # Install the dependencies
 $ yarn
