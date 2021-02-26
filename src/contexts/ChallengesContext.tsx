@@ -110,7 +110,7 @@ export function ChallengesProvider({ children, ...rest }: ChallengesProviderProp
       setChallengeCompleted(challengeCompleted + 1)
   }
 
-    function resetChallenge(challenge){
+    function resetChallenge(){
 
       setActiveChallenge(null);
     }
